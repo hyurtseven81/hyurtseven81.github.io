@@ -264,7 +264,7 @@ _2009 - Present_
 > 
 > ASP.NET MVC (C#), SQL Server, NHibernate, SQL Server Reporting Services for Reporting and Invoices, Bootstrap, LESS, Jquery
 
-### Pronet iPhone Panic Button Application (Awarded with the Altın Örümcek)
+### Pronet iPhone Panic Button Application (Awarded with Altın Örümcek)
 
 _2013_
 
