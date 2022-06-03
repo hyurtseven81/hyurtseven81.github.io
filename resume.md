@@ -6,23 +6,23 @@ Sophie Charlotten Str. 117A
 [hyurtseven81@gmail.com](mailto:hyurtseven81@gmail.com)  
 [+491747578231](tel:+491747578231)
 
-*   Over twenty years experience developing software and over ten years experience managing teams, leading managers of managers and managers
-*   Specialist in distributed systems, high performance computing, data mining, rest apis, gRPC, protobufs, data modelling, scalability and code generation
-*   Experience on managing multiple teams, team topologies and process modelling
-*   Golang, Python, Nodejs, Java and Javascript developer in a wide variety of applications.
-*   Current Development with Golang, Python, Nodejs, Java, Javascript
-*   Accomplished at Process Modeling, System Design, and Scalable Architecture
+*   Over twenty years of experience developing software and over ten years of experience managing teams
+*   Specialist in distributed systems, high-performance computing, data mining, rest APIs, data modeling, scalability, and code generation
+*   Experience in managing multiple teams, team topologies, and process modeling
+*   Python, Nodejs, Java, and Javascript developer in a wide variety of applications.
+*   Current Development with Python, Nodejs, Java, Javascript
+*   Accomplished in Process Modeling, System Design, and Scalable Architecture
 
 > ### Skills:
 > 
 > Coaching, Mentoring, Team Leading and Team Building, Project Management, Leading managers of managers and managers
-> RESTful API's, OOA, Distributed Systems, Microservices, Microfrontends, Docker, Kubernetes  
+> RESTful APIs, OOA, Distributed Systems, Microservices, Microfrontends, Docker, Kubernetes  
 > Golang, Python, FastAPI, Sanic, Tornado, Django, Sklearn, Pillow, Java, Spring Boot, Visual C#, ASP.NET, ASP.NET MVC, Web Api, OData, NHibernate, Entity Framework, Objective C  
 > NoSQL (MongoDB, CouchDB, Hbase, Redis, ElasticSearch), MS SQL Server, MySQL and PostgreSQL  
 > Varnish, Nginx, Apache, IIS  
 > HTML5, CSS3, Javascript, React, Next.js, Jquery, Vue.js, Nuxt.js, BackboneJs, AngularJs and Macromedia Flash ActionScript 2/3  
 > HLS, mpeg-dash, smooth streaming, Playready, Fairplay, Widevine, Videojs, Shakaplayer, Exoplayer  
-> MS Visual Studio, XCode, MS SQL Server Reporting Services, Crystal Reports, FastReport, Photoshop and Flash  
+> MS Visual Studio, XCode, MS SQL Server Reporting Services, Crystal Reports, FastReport, Photoshop, and Flash  
 > Scrum, Kanban, Jira  
 > DroneCI, Spinaker, Jenkins, CI/CD
 
@@ -37,16 +37,16 @@ _Dec. 2021 - Present_
 > 
 > _Dec. 2021 - Present_
 
-> *   Leading managers of managers and managers 
+> *   Leading managers of managers and managers
 > *   Working together with data engineering teams and data science teams collaboratively
-> *   Leading the technical side of local commerce vertical with multiple domains like logistics, assortment, store operations... (over 17 teams under multiple domains)
-> *   Being part of the tribe leadership group to work on tech strategy of the company
-> *   Overseeing squads` work, and ensuring that they build high quality applications and features
+> *   Leading the technical side of the local commerce vertical with multiple domains like logistics, assortment, store operations... (over 17 teams under multiple domains)
+> *   Being part of the tribe leadership group to work on the tech strategy of the company
+> *   Overseeing squads` work, and ensuring that they build high-quality applications and features
 > *   Designing the org. structure/team topologies to keep the performance higher
 > *   Allocating appropriate resources to ensure predictable delivery of multiple applications and projects
-> *   Collaborating with product manager(s) to create value continuesly
-> *   Attracting exceptional engineers, attending technical interviews and managing their performance
-> *   Helping teams; modelling software architecture, system architecture and scalability architecture
+> *   Collaborating with product manager(s) to create value continuously
+> *   Attracting exceptional engineers, attending technical interviews, and managing their performance
+> *   Helping teams; modeling software architecture, system architecture, and scalability architecture
 > 
 > * * *
 > 
