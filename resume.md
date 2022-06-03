@@ -11,7 +11,7 @@ Sophie Charlotten Str. 117A
 *   Experience on managing multiple teams, team topologies and process modelling
 *   Golang, Python, Nodejs, Java and Javascript developer in a wide variety of applications.
 *   Current Development with Golang, Python, Nodejs, Java, Javascript
-*   Accomplished at Process Modeling, System Architecture and Design, and Scalable Architecture
+*   Accomplished at Process Modeling, System Design, and Scalable Architecture
 
 > ### Skills:
 > 
