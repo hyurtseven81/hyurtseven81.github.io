@@ -106,7 +106,7 @@ _Feb. 2020 - Jul 2020_
 > *   Being software development consultant for the team.
 > *   Managing the teams with OKR and agile methodologies like scrum and kanban
 > 
-> Kariyer.net and İşin Olsun are the most popular JobBoard/ATS platforms for different segmentations of Turkey.
+> Kariyer.net and İşin Olsun are the most popular JobBoard/ATS platforms for different segmentations in Turkey.
 > 
 > ##### Tech Stack
 > 
