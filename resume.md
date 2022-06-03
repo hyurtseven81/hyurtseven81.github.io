@@ -37,9 +37,9 @@ _Dec. 2021 - Present_
 > 
 > _Dec. 2021 - Present_
 
-> *   Leading managers of managers and managers
+> *   Leading managers of managers and managers 
 > *   Working together with data engineering teams and data science teams collaboratively
-> *   Leading the technical side of local commerce vertical with multiple domains like logistics, assortment, store operations...
+> *   Leading the technical side of local commerce vertical with multiple domains like logistics, assortment, store operations... (over 17 teams under multiple domains)
 > *   Being part of the tribe leadership group to work on tech strategy of the company
 > *   Overseeing squads` work, and ensuring that they build high quality applications and features
 > *   Designing the org. structure/team topologies to keep the performance higher
@@ -78,7 +78,7 @@ _Jul. 2020 - Dec. 2021_
 > * * *
 > 
 > *   Introduced new Product Information Management system
-> *   Refactored the team topologies to increase the performance
+> *   Redesigned the team topologies to increase the performance
 > *   Started building metric driven teams
 > *   Started OKR framework within the tribe
 > *   Started new multi-criteria ranking solution together addressing data discrepency problems
@@ -105,6 +105,8 @@ _Feb. 2020 - Jul 2020_
 > *   Deciding modelling, software architecture, system architecture and scalability architecture
 > *   Being software development consultant for the team.
 > *   Managing the teams with OKR and agile methodologies like scrum and kanban
+>
+> ***
 > 
 > Kariyer.net and İşin Olsun are the most popular JobBoard/ATS platforms for different segmentations in Turkey.
 > 
@@ -120,7 +122,7 @@ _Apr. 2018 - Feb. 2020_
 > 
 > _Apr. 2018 - Feb. 2020_
 
-> *   Leading managers of managers, senior data science managers and managers
+> *   Leading managers of managers, data science managers and managers
 > *   Leading multiple engineering teams, devops engineers, product owners and test engineers, overseeing their work, and ensuring that they build high quality applications and features (up to 40 people)
 > *   Allocating appropriate resources to ensure predictable delivery of multiple applications and projects
 > *   Collaborating and analyzing project requirements and features with product managers
@@ -129,6 +131,8 @@ _Apr. 2018 - Feb. 2020_
 > *   Deciding modelling, software architecture, system architecture and scalability architecture
 > *   Being software development consultant for the team.
 > *   Managing the teams with agile methodologies like scrum and kanban
+> 
+> ***
 > 
 > We've been developing Turkey's most popular OTT platform. We've been developing almost all technologies internally.
 > 
@@ -155,6 +159,8 @@ _Mar. 2008 - Apr. 2018_
 > *   Being software development consultant for the team.
 > *   Managing the team with agile methodologies like scrum and kanban
 > 
+> ***
+>
 > We developed an api first headless commercial CMS (Content Management CMS) named Blupoint CMS  
 > We developed an eCRM to handle from subscription management to contract management.  
 > We developed a full DRM and Ad-Tech supported players.  
@@ -200,6 +206,8 @@ _Mar. 2008 - Apr. 2018_
 > *   Acted as software development consultant for the team.
 > *   Managed the team with scrum (with Jira)
 > 
+> ***
+>
 > We built a multi site and flexible CMS system on the following technologies for Dogan TV, now almost all Dogan TV websites use this CMS system.
 > 
 > MongoDB (Core and Stats DBs), ElasticSearch (Fulltext Search) and Redis (Session Management and Cache)  
