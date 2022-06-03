@@ -47,9 +47,7 @@ _Dec. 2021 - Present_
 > *   Collaborating with product manager(s) to create value continuesly
 > *   Attracting exceptional engineers, attending technical interviews and managing their performance
 > *   Helping teams; modelling software architecture, system architecture and scalability architecture
-
 > * * *
-
 > *   Introduced OKR framework
 > *   Introduced executive action team
 > *   Helped improving decision making process with RFCs/ADRs
