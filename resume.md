@@ -49,11 +49,11 @@ _Dec. 2021 - Present_
 > *   Helping teams; modelling software architecture, system architecture and scalability architecture
 
 > * * *
-> 
+
+> *   Introduced OKR framework
 > *   Introduced executive action team
 > *   Helped improving decision making process with RFCs/ADRs
 > *   Helped the company to become outcome driven and empowered more
-> *   Helped the company using OKR framework effectively
 > *   ...
 
 ### Delivery Hero SE
