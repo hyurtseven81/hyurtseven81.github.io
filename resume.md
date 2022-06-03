@@ -37,6 +37,26 @@ _Dec. 2021 - Present_
 > 
 > _Dec. 2021 - Present_
 
+> *   Leading senior engineering managers and managers
+> *   Working together with data engineering and data science team collaboratively
+> *   Leading local commerce vertical of the company
+> *   Being part of tribe leadership group to work on tech strategy of the company
+> *   Overseeing squad's work, and ensuring that they build high quality applications and features
+> *   Designing the org. structure/Team topologies to keep the performance higher
+> *   Allocating appropriate resources to ensure predictable delivery of multiple applications and projects
+> *   Collaborating with product manager(s) to create value continuesly
+> *   Attracting exceptional engineers, attending technical interviews and managing their performance
+> *   Helping teams; modelling software architecture, system architecture and scalability architecture
+
+> * * *
+> 
+> *   Introduced OKR Framework
+> *   Introduced executive action team
+> *   Helped improving decision making process with RFCs/ADRs
+> *   Helped the company to become outcome driven and empowered more
+> *   Helped the company using OKR framework effectively
+> *   ...
+
 ### Delivery Hero SE
 
 _Jul. 2020 - Dec. 2021_
@@ -45,7 +65,9 @@ _Jul. 2020 - Dec. 2021_
 > 
 > _Jul. 2020 - Dec. 2021_
 > 
-> *   Leading and managing a tribe under Q-Commerce together with engineering teams, data science teams as well as platform engineering team
+> *   Leading senior engineering managers, senior data science managers and managers
+> *   Leading a tribe under Q-Commerce together with engineering teams, data science teams as well as platform engineering teams
+> *   Being part of tribe leadership group to work on tech strategy of the company
 > *   Overseeing squad's work, and ensuring that they build high quality applications and features
 > *   Designing the org. structure/Team topologies to keep the performance higher
 > *   Allocating appropriate resources to ensure predictable delivery of multiple applications and projects
@@ -74,8 +96,9 @@ _Feb. 2020 - Jul 2020_
 > #### CTO
 > 
 > _Feb. 2020 - Jul 2020_
-> 
-> *   Leading and managing multiple engineering and R&D teams, devops engineers and test engineers, overseeing their work, and ensuring that they build high quality applications and features (up to 80 people)
+
+> *   Leading senior engineering managers, senior data science managers and managers
+> *   Leading multiple engineering and R&D teams, devops engineers and test engineers, overseeing their work, and ensuring that they build high quality applications and features (up to 80 people)
 > *   Allocating appropriate resources to ensure predictable delivery of multiple applications and projects
 > *   Collaborating and analyzing project requirements and features with product managers
 > *   Attracting exceptional engineers, attending technical interviews and managing their annual performances
@@ -97,8 +120,9 @@ _Apr. 2018 - Feb. 2020_
 > #### CTO
 > 
 > _Apr. 2018 - Feb. 2020_
-> 
-> *   Leading and managing multiple engineering teams, devops engineers, product owners and test engineers, overseeing their work, and ensuring that they build high quality applications and features (up to 40 people)
+
+> *   Leading senior engineering managers, senior data science managers and managers
+> *   Leading multiple engineering teams, devops engineers, product owners and test engineers, overseeing their work, and ensuring that they build high quality applications and features (up to 40 people)
 > *   Allocating appropriate resources to ensure predictable delivery of multiple applications and projects
 > *   Collaborating and analyzing project requirements and features with product managers
 > *   Attracting exceptional engineers, attending technical interviews and managing their annual performances
@@ -121,7 +145,8 @@ _Mar. 2008 - Apr. 2018_
 > 
 > _Sep. 2015 - Apr. 2018_
 > 
-> *   Managed up to 70 people
+> *   Leading senior engineering managers, and managers
+> *   Leading up to 70 people
 > *   Leading and managing multiple teams, devops engineers, overseeing their work, and ensuring that they build high quality applications and features
 > *   Allocating appropriate resources to ensure predictable delivery of multiple applications and projects
 > *   Collaborating and analyzing project requirements and features with product managers
@@ -153,7 +178,7 @@ _Mar. 2008 - Apr. 2018_
 > 
 > [netd.com](http://www.netd.com), [kanald.com.tr](http://www.kanald.com.tr), [cnnturk.com](http://www.cnnturk.com)
 > 
-> *   Leading and managing a team of application engineers and Web developers, overseeing their work, and ensuring that they build high quality applications and features
+> *   Leading a team of application engineers and Web developers, overseeing their work, and ensuring that they build high quality applications and features
 > *   Allocating appropriate resources to ensure predictable delivery of multiple applications and projects
 > *   Collaborating and analyzing project requirements and features with product managers
 > *   Attracting exceptional engineers, attending technical interviews and managing their annual performances
