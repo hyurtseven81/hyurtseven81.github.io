@@ -382,7 +382,7 @@ FAVORITE BOOKS
 --------------
 
 > *   Accelerate / Nicole Forsgren PhD
-> *   Team Topologies / Matthew Skelton
+> *   Team Topologies / Matthew Skelton and Manuel Pais
 > *   Radical Candor / Kim Scott
 > *   Efective Executive / Peter Drucker
 > *   Sprint / Jake Knapp
