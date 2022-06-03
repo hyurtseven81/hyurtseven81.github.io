@@ -6,7 +6,7 @@ Sophie Charlotten Str. 117A
 [hyurtseven81@gmail.com](mailto:hyurtseven81@gmail.com)  
 [+491747578231](tel:+491747578231)
 
-*   Over twenty years experience developing software and over ten years experience managing teams
+*   Over twenty years experience developing software and over ten years experience managing teams, leading managers of managers and managers
 *   Specialist in distributed systems, high performance computing, data mining, rest apis, gRPC, protobufs, data modelling, scalability and code generation
 *   Experience on managing multiple teams, team topologies and process modelling
 *   Golang, Python, Nodejs, Java and Javascript developer in a wide variety of applications.
@@ -15,7 +15,7 @@ Sophie Charlotten Str. 117A
 
 > ### Skills:
 > 
-> Coaching, Mentoring, Team Leading and Team Building, Project Management  
+> Coaching, Mentoring, Team Leading and Team Building, Project Management, Leading managers of managers and managers
 > RESTful API's, OOA, Distributed Systems, Microservices, Microfrontends, Docker, Kubernetes  
 > Golang, Python, FastAPI, Sanic, Tornado, Django, Sklearn, Pillow, Java, Spring Boot, Visual C#, ASP.NET, ASP.NET MVC, Web Api, OData, NHibernate, Entity Framework, Objective C  
 > NoSQL (MongoDB, CouchDB, Hbase, Redis, ElasticSearch), MS SQL Server, MySQL and PostgreSQL  
@@ -37,7 +37,7 @@ _Dec. 2021 - Present_
 > 
 > _Dec. 2021 - Present_
 
-> *   Leading senior engineering managers and managers
+> *   Leading managers of managers and managers
 > *   Working together with data engineering and data science team collaboratively
 > *   Leading local commerce vertical of the company
 > *   Being part of tribe leadership group to work on tech strategy of the company
@@ -65,7 +65,7 @@ _Jul. 2020 - Dec. 2021_
 > 
 > _Jul. 2020 - Dec. 2021_
 > 
-> *   Leading senior engineering managers, senior data science managers and managers
+> *   Leading managers of managers, senior data science managers and managers
 > *   Leading a tribe under Q-Commerce together with engineering teams, data science teams as well as platform engineering teams
 > *   Being part of tribe leadership group to work on tech strategy of the company
 > *   Overseeing squad's work, and ensuring that they build high quality applications and features
@@ -97,7 +97,7 @@ _Feb. 2020 - Jul 2020_
 > 
 > _Feb. 2020 - Jul 2020_
 
-> *   Leading senior engineering managers, senior data science managers and managers
+> *   Leading managers of managers, senior data science managers and managers
 > *   Leading multiple engineering and R&D teams, devops engineers and test engineers, overseeing their work, and ensuring that they build high quality applications and features (up to 80 people)
 > *   Allocating appropriate resources to ensure predictable delivery of multiple applications and projects
 > *   Collaborating and analyzing project requirements and features with product managers
@@ -121,7 +121,7 @@ _Apr. 2018 - Feb. 2020_
 > 
 > _Apr. 2018 - Feb. 2020_
 
-> *   Leading senior engineering managers, senior data science managers and managers
+> *   Leading managers of managers, senior data science managers and managers
 > *   Leading multiple engineering teams, devops engineers, product owners and test engineers, overseeing their work, and ensuring that they build high quality applications and features (up to 40 people)
 > *   Allocating appropriate resources to ensure predictable delivery of multiple applications and projects
 > *   Collaborating and analyzing project requirements and features with product managers
@@ -145,7 +145,7 @@ _Mar. 2008 - Apr. 2018_
 > 
 > _Sep. 2015 - Apr. 2018_
 > 
-> *   Leading senior engineering managers, and managers
+> *   Leading managers of managers, and managers
 > *   Leading up to 70 people
 > *   Leading and managing multiple teams, devops engineers, overseeing their work, and ensuring that they build high quality applications and features
 > *   Allocating appropriate resources to ensure predictable delivery of multiple applications and projects
