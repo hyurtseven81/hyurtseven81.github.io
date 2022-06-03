@@ -50,7 +50,6 @@ _Dec. 2021 - Present_
 
 > * * *
 > 
-> *   Introduced OKR Framework
 > *   Introduced executive action team
 > *   Helped improving decision making process with RFCs/ADRs
 > *   Helped the company to become outcome driven and empowered more
