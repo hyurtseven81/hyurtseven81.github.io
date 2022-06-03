@@ -284,7 +284,7 @@ _2009 - Present_
 
 > [www.shoetekfiyat.com](http://www.shoetekfiyat.com)
 > 
-> *   Modelled and implemented web framework and build system
+> *   Modelled and implemented web framework and built the system
 > 
 > ASP.NET MVC (C#), SQL Server, NHibernate, SQL Server Reporting Services for Reporting and Invoices, Bootstrap, LESS, Jquery
 
@@ -303,22 +303,6 @@ _2012_
 > *   Developed hand replayer for online poker sites.
 > 
 > Action Script 3
-
-### Bulk Email Software
-
-_2011_
-
-> *   Developed bulk email sender application in Java and C# (separately for different server systems) languages (it could find bounce emails, it could analyze spam scores etc)
-> 
-> Java, C#, SQLite
-
-### Helpdesk Software
-
-_2009_
-
-> *   Developed online helpdesk software to manage tickets
-> 
-> ASP.NET C#, SQL Server, SQL Server Reporting Services
 
 ### Microsoft CRM and Navision Addons for Windows Mobile
 
@@ -339,7 +323,7 @@ _2000 - 2005_
 > 
 > ISTANBUL UNIVERSITY
 > 
-> *   Graduation thesis on Chaos Theory
+> *   Graduation thesis on Chaos Theory / Predicting Weather Conditions
 
 CERTIFICATES
 ------------
