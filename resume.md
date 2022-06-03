@@ -38,16 +38,18 @@ _Dec. 2021 - Present_
 > _Dec. 2021 - Present_
 
 > *   Leading managers of managers and managers
-> *   Working together with data engineering and data science team collaboratively
-> *   Leading local commerce vertical of the company
-> *   Being part of tribe leadership group to work on tech strategy of the company
-> *   Overseeing squad's work, and ensuring that they build high quality applications and features
-> *   Designing the org. structure/Team topologies to keep the performance higher
+> *   Working together with data engineering teams and data science teams collaboratively
+> *   Leading the technical side of local commerce vertical with multiple domains like logistics, assortment, store operations...
+> *   Being part of the tribe leadership group to work on tech strategy of the company
+> *   Overseeing squads` work, and ensuring that they build high quality applications and features
+> *   Designing the org. structure/team topologies to keep the performance higher
 > *   Allocating appropriate resources to ensure predictable delivery of multiple applications and projects
 > *   Collaborating with product manager(s) to create value continuesly
 > *   Attracting exceptional engineers, attending technical interviews and managing their performance
 > *   Helping teams; modelling software architecture, system architecture and scalability architecture
+> 
 > * * *
+> 
 > *   Introduced OKR framework
 > *   Introduced executive action team
 > *   Helped improving decision making process with RFCs/ADRs
@@ -65,8 +67,8 @@ _Jul. 2020 - Dec. 2021_
 > *   Leading managers of managers, senior data science managers and managers
 > *   Leading a tribe under Q-Commerce together with engineering teams, data science teams as well as platform engineering teams
 > *   Being part of tribe leadership group to work on tech strategy of the company
-> *   Overseeing squad's work, and ensuring that they build high quality applications and features
-> *   Designing the org. structure/Team topologies to keep the performance higher
+> *   Overseeing squads` work, and ensuring that they build high quality applications and features
+> *   Designing the org. structure/team topologies to keep the performance higher
 > *   Allocating appropriate resources to ensure predictable delivery of multiple applications and projects
 > *   Collaborating and analyzing project requirements and features with product managers
 > *   Attracting exceptional engineers, attending technical interviews and managing their performance
@@ -75,7 +77,7 @@ _Jul. 2020 - Dec. 2021_
 > 
 > * * *
 > 
-> *   I introduced new Product Information Management
+> *   Introduced new Product Information Management system
 > *   Refactored the team topologies to increase the performance
 > *   Started building metric driven teams
 > *   Started OKR framework within the tribe
