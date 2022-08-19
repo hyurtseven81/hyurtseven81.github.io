@@ -93,6 +93,7 @@ Conversion notes:
     * I believe that leaders should be a team
 * I do informal performance reviews to be ready for the formal one for all of us every 3 months so that we can clarify expectations as early as possible
 * [Effective time management](https://docs.google.com/document/d/11OcsFuceN2WW1aa3sXBB9jAj3oVeW4Tx/edit?usp=sharing&ouid=117472000879558257694&rtpof=true&sd=true) is the key to all above
+* I work mostly on weekends and the evenings for my own development as well as for duties that I cannot fulfill in the day due to my other/main responsibilities. I don't expect the same from you or I don't reward this behavior
 
 
 ### Your development
