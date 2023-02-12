@@ -31,7 +31,7 @@ EXPERIENCE
 
 ### Amazon / Amazon Music
 
-_Dec. 2021 - Present_
+_Jan. 2023 - Present_
 
 > #### Sr. Software Development Manager, Amazon Music Machine Learning
 
