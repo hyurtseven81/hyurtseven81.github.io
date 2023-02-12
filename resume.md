@@ -33,9 +33,15 @@ EXPERIENCE
 
 _Dec. 2021 - Present_
 
+> #### Sr. Software Development Manager, Amazon Music Machine Learning
+
+### Trendyol / Alibaba Group
+
+_Dec. 2021 - Jan. 2023_
+
 > #### Head of Engineering
 > 
-> _Dec. 2021 - Present_
+> _Dec. 2021 - Jan. 2023_
 
 > *   Leading managers of managers and managers
 > *   Working together with data engineering teams and data science teams collaboratively
