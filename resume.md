@@ -29,7 +29,7 @@ Sophie Charlotten Str. 117A
 EXPERIENCE
 ----------
 
-### Trendyol / Alibaba Group
+### Amazon / Amazon Music
 
 _Dec. 2021 - Present_
 
