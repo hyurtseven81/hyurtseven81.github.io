@@ -49,6 +49,19 @@ Conversion notes:
     * Creating Impact/Value
 * I love [Amazon’s leadership principles](https://www.amazon.jobs/en/principles)
 
+## My Tenets
+1. **No Hand-offs:** Cross-functional micro-teams within value streams prevent unnecessary delays and maintain motivation across functions.
+2. **Working Solution over Documentation:** Prioritizing practical, working solutions and iterative delivery helps accelerate progress and continuous improvement over extensive documentation for our customers.
+3. **Psychological Safety:** Fostering an environment where team members feel safe to speak up, take risks, and make mistakes without fear, supporting creativity, innovation, and resilience.
+4. **Teamwork over Individual Work:** Emphasizing collective success, we value teamwork, where each member’s contribution enhances the whole.
+5. **No Bus Factor:** Encouraging practices like pair programming and role switching, we promote knowledge sharing to minimize dependencies on any single individual.
+6. **Knowledge-sharing:** A shared understanding across topics enhances decision-making and supports continuous learning and growth.
+7. **Smaller Cross-Functional Teams over Large Teams:** Effective communication is more achievable within smaller, cross-functional teams, optimizing alignment and agility.
+8. **Goal-Driven over Roadmap-Driven:** Through clear Objectives and Key Results, we empower teams to define initiatives, maximizing value and focus on impactful outcomes.
+9. **Manager as a Multiplier:** Managers serve as multipliers, developing and empowering team members to amplify their impact and foster high performance.
+10. **Optimizing Cognitive Load:** Prioritizing manageable workloads and effective team structure to avoid overload, with the support of platform and enabling teams.
+11. **Brooks Law:** Adopting an “own-it end-to-end” philosophy, we focus on “you build it, you run it” to enhance accountability and delivery quality.
+12. **Making Work Visible:** Visible workflows, such as sprint reports and showcase meetings, strengthen trust within and among teams by improving transparency and alignment.
 
 ## How you can help me
 
@@ -316,6 +329,7 @@ Don’t hesitate to reach out from slack, WhatsApp, email, or call me directly a
 
 
 
+* Multipliers
 * Radical Candor
 * Drive
 * The manager’s path
