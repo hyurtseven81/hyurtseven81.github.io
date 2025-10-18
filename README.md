@@ -1,32 +1,28 @@
-<!-- Output copied to clipboard! -->
-
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 1.067 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Fri May 20 2022 03:44:18 GMT-0700 (PDT)
-* Source doc: Huseyin Yurtseven's README
------>
-
-
-
 # Huseyin Yurtseven's README
+
+**A guide to working with me** - This document describes my management philosophy, working style, and what you can expect from our collaboration. Think of it as a user manual to help us work together more effectively.
+
+## Table of Contents
+- [About me](#about-me)
+- [My Tenets](#my-tenets)
+- [My working style](#my-working-style)
+  - [Your development](#your-development)
+  - [Feedback](#feedback)
+  - [1:1s (One-on-ones)](#1o1s)
+  - [Trust](#trust)
+  - [What I expect from a leader](#what-i-expect-from-a-leader)
+- [How you can help me](#how-you-can-help-me)
+- [What I assume about others](#what-i-assume-about-others)
+- [What I want to earn](#what-i-want-to-earn)
+- [Communicating with me](#communicating-with-me)
+  - [Cadence](#cadence)
+- [Favorite Books](#favorite-books)
+- [Bonus](#bonus)
+- [Inspirations](#inspirations)
+
+---
+
 ## About me
-
-
 
 * I was born in Germany/Bremen but raised in Istanbul, and I live in Berlin currently
 * I’ve been developing software for over 20 years
@@ -65,24 +61,19 @@ Conversion notes:
 
 ## How you can help me
 
-
-
 * I take hard feedback well; deliver feedback as much as possible
     * Most of the time, you might see me asking and chasing feedback from you; be ready for it
-* Please keep me in the information flow instead of preparing reports and regular updates. If you feel I’m missing some important information or decision, ping me with just one sentence on slack. If necessary, I will ask for more information. But before everything, try to keep me in the loop
+* Please keep me in the information flow instead of preparing reports and regular updates. If you feel I'm missing some important information or decision, ping me with just one sentence on Slack. If necessary, I will ask for more information. But before everything, try to keep me in the loop
 * If there is a consensus decision, there is no need to involve me, but if you feel that decision will live with us for at least one year and is an important decision, involve me in the first place
 * I love problems and debates on top of them, don’t forget to invite me to the party. If I feel I don’t live in the problem space, I might be an unhappy person easily
 * I love pair/[mob programming](https://en.wikipedia.org/wiki/Mob_programming), but with a remote work setup, if you don’t invite me, I cannot invite myself, so please remember me
-* Unless specifically mentioned, I don’t expect immediate responses from anyone. I respect others’ time and want you to have the space for a thoughtful response.
-
+* Unless specifically mentioned, I don't expect immediate responses from anyone. I respect others' time and want you to have the space for a thoughtful response.
 
 ## My working style
 
-
-
 * I believe in the [servant leadership](https://wheniwork.com/blog/the-ultimate-guide-to-the-servant-leadership-model/) model
 * I’m a fan of situational leadership; therefore, if you see me giving specific instructions or coaching you on a particular topic, it means that I’m trying to apply situational leadership to that specific situation
-* I prefer written decisions with [RFC](https://en.wikipedia.org/wiki/Request_for_Comments)s/[ADR](https://adr.github.io)s
+* I prefer written decisions with [RFCs (Request for Comments)](https://en.wikipedia.org/wiki/Request_for_Comments) and [ADRs (Architecture Decision Records)](https://adr.github.io)
 * There should be a structure/best practice for everything; it’s always ok to invent something new if there is a structure under it. Some things help me to be structured:
     * [Situational leadership](https://situational.com/situational-leadership/)
     * [Team topologies](https://teamtopologies.com)
@@ -92,9 +83,9 @@ Conversion notes:
     * [Independent service heuristics](https://github.com/TeamTopologies/Independent-Service-Heuristics)
     * Architecture reviews
     * Incident management process
-    * [OKRs](https://docs.google.com/presentation/u/0/d/1d0rFtpi7FI9OevvlSRWDBb5dlNB53neH/edit)
-    * [Executive actions teams](https://docs.google.com/presentation/u/0/d/1425DgeGvRsiaBhxvSuAIu5go-Ur7V6cU/edit)
-* OKR framework is the key framework for me to follow the management by objectives approach
+    * OKRs (Objectives and Key Results) - See "Measure What Matters" by John Doerr
+    * Executive actions teams - Cross-functional leadership meetings for alignment
+* The OKR framework is the key framework for me to follow the management by objectives approach
 * I respond well to being asked for help ("Can you help with X?"). I don't respond well to being told what to do ("Do X!")
 * I believe in [empowered teams](https://www.svpg.com/empowered-product-teams/).
     * I have always hated being a [code monkey](https://en.wikipedia.org/wiki/Code_monkey), and I don’t want anyone working with me to be one
@@ -105,15 +96,12 @@ Conversion notes:
 * I believe in the [first-team/second team](https://youtu.be/BjE_mPoZPSg) model
     * I believe that leaders should be a team
 * I do informal performance reviews to be ready for the formal one for all of us every 3 months so that we can clarify expectations as early as possible
-* [Effective time management](https://docs.google.com/document/d/11OcsFuceN2WW1aa3sXBB9jAj3oVeW4Tx/edit?usp=sharing&ouid=117472000879558257694&rtpof=true&sd=true) is the key to all above
-* I work mostly on weekends and the evenings for my own development as well as for duties that I cannot fulfill in the day due to my other/main responsibilities. I don't expect the same from you or I don't reward this behavior
-
+* Effective time management is the key to all of the above
+* **Note on my personal schedule:** I sometimes work on weekends and evenings for my own development and to handle duties I cannot fulfill during regular hours due to other responsibilities. This is my personal choice and preference. I absolutely do not expect the same from you, nor do I consider it when evaluating performance. Please maintain healthy work-life boundaries
 
 ### Your development
 
-I believe that your career progression is your responsibility, but I’m always here to help:
-
-
+I believe that your career progression is your responsibility, but I'm always here to help:
 
 * to ask you annoying questions about your progress
 * to be a "study buddy" and grow/learn together
@@ -121,13 +109,11 @@ I believe that your career progression is your responsibility, but I’m always 
 * to broadcast your successes
 * to challenge you
 
-
 ### Feedback
 
 I always prefer [radically candid](https://www.amazon.de/-/en/Kim-Scott/dp/1250258405/ref=pd_lpo_1?pd_rd_i=1250258405&psc=1) feedback. Therefore I always try to deliver timely and continuous feedback, and I expect you to do the same thing to me.
 
-
-### 1o1s
+### 1:1s (One-on-ones)
 
 This is your meeting and your time: you set the agenda and determine what we talk about. My most effective 1:1s have an agenda that builds up through the week, but I've also had some great free-form ones. Don't feel bad if you don't come with something prepared.
 
@@ -135,28 +121,24 @@ If we don't have anything on the agenda, please expect me to try and get to know
 
 If you're struggling to find some topics, use the [Rose/Thorn/Bud](https://www.mindfulschools.org/inspiration/mindful-reflection/) framework and come up with them. I like hearing about problems/things that happened during your week because:
 
-
-
 * I always learn something
 * I get data points that help me make global process improvements
 * I get a picture of what things you're great at
 * I begin to understand which things you struggle with
 
-I do also schedule [skip level 1o1s](https://about.gitlab.com/handbook/leadership/skip-levels/) quarterly, be ready that I will be reaching out to your team members quarterly basis to have 1o1s with them. Keep in your mind that skip level 1o1s is not for checking the leader’s performance. It’s just for getting to know each other and building rapport, providing an opportunity to have contributions recognized by a senior leader, asking questions, and clarifying their understanding of the company or functional objectives.
+I also schedule [skip level 1:1s](https://about.gitlab.com/handbook/leadership/skip-levels/) quarterly. Be ready that I will be reaching out to your team members on a quarterly basis to have 1:1s with them. Keep in mind that skip level 1:1s are not for checking the leader's performance. They're for getting to know each other and building rapport, providing an opportunity to have contributions recognized by a senior leader, asking questions, and clarifying understanding of the company or functional objectives.
 
 **Don't save urgent matters for a 1-1**
 
-
 ### Trust
 
-My default position is to trust everyone, be it work-related or not. I see people as they can share any information with me very openly, and I’m also always open to them. 
+My default position is to trust everyone, be it work-related or not. I believe people can share any information with me very openly, and I'm also always open to them.
 
-At work, I will trust that intentions are good by default. I will often provide feedback if I see something that I find is not beneficial to the company, whether that is my job or not. I will give direct feedback to individuals of all ranks if I observe this behavior.
+At work, I trust that intentions are good by default. I will often provide feedback if I see something that I find is not beneficial to the company, whether that is my job or not. I will give direct feedback to individuals of all ranks if I observe behaviors that need course correction.
 
-If I feel my sincere feedback is not helpful to improve things despite my repeated attempts (I’m patient enough to provide the same feedback again), I tend to react by withdrawing the trust entirely, and sometimes I cannot build that trust environment again.
+**Building and maintaining trust:** Trust is built through honest, timely communication and genuine responsiveness to feedback. When I provide feedback, I do so with patience and the genuine intent to help us improve together. However, if feedback consistently goes unaddressed or unacknowledged over time, it can strain the trust relationship, making it harder to rebuild.
 
-For this reason, I ask people working with me to always provide me direct feedback on time and respond to my feedback timely without holding back.
-
+This is why I value bidirectional feedback so much. I ask people working with me to provide me with direct, timely feedback and to respond to mine openly. This mutual exchange is what keeps our trust strong and our collaboration effective.
 
 ### What I expect from a leader
 
@@ -166,10 +148,7 @@ To me, the right leader should be a life-long learner in any topic.
 
 The right leader should be:
 
-
 #### Technical
-
-
 
 * Creating tech strategy and vision for the owning domain/service and guiding the team to build this future
 * Ensuring the service/domain has all pillars to be a sellable SaaS!
@@ -184,53 +163,41 @@ The right leader should be:
 * Provide technical leadership in driving the design and implementation of distributed, highly scalable systems!
 * Transferring business requirements to technical solutions and helping the team to understand
 * Ensuring service/team has enough documentation.
-* Being a T-Shaped leader and at least knowing different fields like data science, data engineering, quality assurance, frontend, backend, and so on so forth 
-
+* Being a T-Shaped leader and at least knowing different fields like data science, data engineering, quality assurance, frontend, backend, and so on so forth
 
 #### People
 
-
-
-* Helping every individual’s development
+* Helping every individual's development
 * Technical representative of the owning domain/service and being customer spokesman for the team
 * Hiring the best talents and helping them to grow
-* Doing regular 1o1s with their direct reports and understanding their differences, and keeping them motivated.
+* Doing regular 1:1s with their direct reports and understanding their differences, and keeping them motivated.
 * Using OKRs as a key framework to manage by objectives
 * Mentorship, coaching
-* Pairing with product managers and helping them from the technical perspective and working with them to plan work
+* Pairing with Product Managers (PMs) and helping them from the technical perspective and working with them to plan work
 * Protecting their team and creating space for them to build good quality solutions
 * Creating space for their team to try new things without being controlled by a fear of failure
 * Developing their successors
-* Helping/planning team members’ career steps
-
+* Helping/planning team members' career steps
 
 #### Product
 
-
-
 * Understanding the business and product well
-* By being pair of PM and business owners, owning the success together
+* By being a pair with PM and business owners, owning the success together
 * Coming up with new ideas to create value continuously
 * Being customer-obsessed and prioritizing the customer always
 * Not hesitating to simplify solutions to make customers happier
 * Always being ready to action
 
-
 #### Process
 
-
-
 * Making work visible enough for everyone
-* Creating/following up a backlog for technical tasks and prioritizing them with PM by thinking about their values/risks etc.
+* Creating/following up a backlog for technical tasks and prioritizing them with the PM by thinking about their values/risks, etc.
 * Tracking plans and ensuring their delivery
 * Planning the capacity in advance according to plans/features/strategy
 
-
 ## What I assume about others
 
-
-
-* I assume that you’re good at your job
+* I assume that you're good at your job
 * I assume you don’t hesitate to challenge me and any decision
 * You will ask for help if you need it
 * You have more on your plate than the one thing we're discussing
@@ -238,17 +205,13 @@ The right leader should be:
 * You feel safe pushing back
 * We'll tell each other if there's something we could have done better
 
-
 ## What I want to earn
-
-
 
 * Your trust
 * Your psychological safety. I want to allow you the space to take risks, be vulnerable with me, and tell me when I could be doing something better.
 * Your partnership. Life is more fun with community, working together to achieve common goals.
 * Respect as a subject matter expert
 * My team looks forward to collaborating with me
-
 
 ## Communicating with me
 
@@ -258,65 +221,46 @@ I can follow your style; if you prefer written communication, I can move forward
 
 After all, I believe I’m here to help you.
 
-Don’t hesitate to reach out from slack, WhatsApp, email, or call me directly anytime (depending on the urgency of the topic), or don’t hesitate to send a meeting request by checking my calendar (my calendar is always up-to-date)
-
+Don't hesitate to reach out from Slack, WhatsApp, email, or call me directly anytime (depending on the urgency of the topic), or don't hesitate to send a meeting request by checking my calendar (my calendar is always up-to-date)
 
 ### Cadence
 
-
 #### Weekly
 
-
-
-* 1-1s with my direct report /s 25-40 minutes
-* [Executive action team meetings](https://docs.google.com/presentation/d/1425DgeGvRsiaBhxvSuAIu5go-Ur7V6cU/edit?usp=sharing&ouid=117472000879558257694&rtpof=true&sd=true) / one with tribe leaders, one with my organization, 50 mins each
-* 1o1s with my peers / up to 50 mins
-* 1o1 with my leader / up to 50 mins
-* 1o1 with people partner / up to 50 mins
-* Being interviewer for at least two interviews / 1 hour each
-* Business updates meeting / 1 hour
-
+* 1:1s with my direct reports - 25-40 minutes
+* Executive action team meetings - one with tribe leaders, one with my organization, 50 mins each
+* 1:1s with my peers - up to 50 mins
+* 1:1 with my leader - up to 50 mins
+* 1:1 with people partner - up to 50 mins
+* Being interviewer for at least two interviews - 1 hour each
+* Business updates meeting - 1 hour
 
 #### Biweekly
 
-
-
-* Incident review meeting / 25 mins
-
+* Incident review meeting - 25 mins
 
 #### Monthly
 
-
-
-* [Coffee talks with leaders / 50 mins](http://leancoffee.org)
-* Team leaders sync meeting / 25 mins
-* [OKR](https://docs.google.com/presentation/d/1d0rFtpi7FI9OevvlSRWDBb5dlNB53neH/edit?usp=sharing&ouid=117472000879558257694&rtpof=true&sd=true) showcase meeting / 25 mins for each domain
-
+* [Coffee talks with leaders](http://leancoffee.org) - 50 mins
+* Team leaders sync meeting - 25 mins
+* OKR showcase meeting - 25 mins for each domain
 
 #### Quarterly
 
-
-
-* OKR planning meeting / 50 mins
-* OKR retrospective meeting / 50 mins
-* Architecture review meeting / up to 3 hours
-* Allhands meeting / 50 mins
-* Ask me anything meeting / 25 mins
-* Skip level 1o1s / 25 mins for each / up to 6 hours in total
+* OKR planning meeting - 50 mins
+* OKR retrospective meeting - 50 mins
+* Architecture review meeting - up to 3 hours
+* All-hands meeting - 50 mins
+* Ask me anything meeting - 25 mins
+* Skip level 1:1s - 25 mins each, up to 6 hours total
 * Performance reviews (informal ones between formal ones)
-
 
 #### Annually
 
-
-
-* Annual planning with tribe leaders / up to 3 hours
-* Annual planning with leaders / up to 2 hours
-
+* Annual planning with tribe leaders - up to 3 hours
+* Annual planning with leaders - up to 2 hours
 
 #### Other
-
-
 
 * Conferences
 * Other interviews
@@ -324,59 +268,64 @@ Don’t hesitate to reach out from slack, WhatsApp, email, or call me directly a
 * Brainstorming meetings
 * Customer check-in meetings
 
-
 ## Favorite Books
 
+**Leadership & Management**
+* **Multipliers** by Liz Wiseman - How great leaders amplify everyone around them
+* **Radical Candor** by Kim Scott - Framework for being a better boss through caring personally and challenging directly
+* **Drive** by Daniel Pink - The surprising truth about what motivates us
+* **The Manager's Path** by Camille Fournier - Guide for tech leaders navigating growth and change
+* **Managing the Unmanageable** by Mickey W. Mantle & Ron Lichty - Rules, tools, and insights for managing software people and teams
+* **Tribal Leadership** by Dave Logan - Building organizations through cultural evolution
+* **The One Minute Manager** by Ken Blanchard - Classic on effective management practices
+* **The New One Minute Manager** by Ken Blanchard - Updated version with modern insights
+* **The Five Dysfunctions of a Team** by Patrick Lencioni - Overcoming the barriers to building cohesive teams
+* **Effective Executive** by Peter Drucker - Timeless wisdom on executive effectiveness
+* **High Output Management** by Andy Grove - Intel CEO's approach to management and productivity
+* **Crucial Conversations** by Kerry Patterson - Tools for talking when stakes are high
+* **Situational Leadership** by Paul Hersey - Adapting leadership style to the situation
 
+**Product & Strategy**
+* **Inspired** by Marty Cagan - How to create tech products customers love
+* **Empowered** by Marty Cagan - Ordinary people, extraordinary products
+* **Project to Product** by Mik Kersten - Surviving and thriving in the age of digital disruption
+* **Sprint** by Jake Knapp - How to solve big problems and test new ideas in just five days
 
-* Multipliers
-* Radical Candor
-* Drive
-* The manager’s path
-* Team topologies
-* Managing the unmanageable
-* Accelerate
-* Making work visible
-* Sprint
-* Tribal Leadership
-* one minute manager
-* the new one minute manager
-* Dynamic reteaming
-* The five dysfunctions of a team
-* Inspired
-* Empowered
-* Project to Product
-* Effective Executive
-* Measure what matters
-* High output management
-* Objectives and Key results
-* Crucial conversations
-* Situational leadership
-* Agile Testing and The More Agile Testing
-* Don’t make me think
-* Collective Intelligence
-* The Scrum Fieldbook
+**Team Structure & Performance**
+* **Team Topologies** by Matthew Skelton & Manuel Pais - Organizing business and technology teams for fast flow
+* **Dynamic Reteaming** by Heidi Helfand - The art and wisdom of changing teams
+* **Accelerate** by Nicole Forsgren, Jez Humble & Gene Kim - The science of lean software and DevOps
+* **Making Work Visible** by Dominica DeGrandis - Exposing time theft to optimize work and flow
+* **Collective Intelligence** - Harnessing the power of teams
 
+**Goals & Metrics**
+* **Measure What Matters** by John Doerr - How Google, Bono, and the Gates Foundation rock the world with OKRs
+* **Objectives and Key Results** - Framework for goal-setting and execution
+
+**Agile & Technical Practices**
+* **Agile Testing** and **More Agile Testing** by Lisa Crispin & Janet Gregory - Comprehensive guides to agile testing
+* **Don't Make Me Think** by Steve Krug - A common sense approach to web usability
+* **The Scrum Fieldbook** by J.J. Sutherland - Practical advice to get the most out of Scrum
 
 ## Bonus
 
+**Beyond work** - Here are some things I'm passionate about outside of software and leadership:
 
+**Music**
+* I play bass guitar and I've been learning upright bass - music is my creative outlet and helps me think differently about problem-solving and collaboration
+* I'm a big jazz fan - I love the improvisation, the complexity, and how jazz musicians build on each other's ideas (much like great teams!)
+* Some tracks that inspire me:
+    * [Rain](https://open.spotify.com/track/548ILShalDUqtZkRrW3XUh?si=d3081ad9e5b84a5d) - Beautiful melodic bass work
+    * [La Villette](https://open.spotify.com/track/7Dp01rH9RGTKDBeKqF03GE?si=5be9e79f62ea4e6a) - Complex harmonies
+    * [Shapes](https://open.spotify.com/track/0C07S4eMjLfOzPCEv8J3eE?si=49602f4051714ece) - Great groove
+* Favorite artists:
+    * [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9?si=8icb7P_DQcyBTH0YPyFruw) - Master of groove and funk bass
+    * [Chris Minh Doky](https://open.spotify.com/artist/5WebagAP4zctj6dWhmRsLL?si=exvm6md3TtK9qzXdPNKSFw) - Incredible technical skill and musicality
 
-* I play bass guitar, and I’ve been trying to learn to play upright bass for a while
-    * [Rain](https://open.spotify.com/track/548ILShalDUqtZkRrW3XUh?si=d3081ad9e5b84a5d)
-    * [La Villette](https://open.spotify.com/track/7Dp01rH9RGTKDBeKqF03GE?si=5be9e79f62ea4e6a)
-    * [Shapes](https://open.spotify.com/track/0C07S4eMjLfOzPCEv8J3eE?si=49602f4051714ece)
-    * …
-* I like jazz music
-    * [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9?si=8icb7P_DQcyBTH0YPyFruw)
-    * [Chris Minh Doky](https://open.spotify.com/artist/5WebagAP4zctj6dWhmRsLL?si=exvm6md3TtK9qzXdPNKSFw)
-    * …
-* My favorite dish is sushi
-
+**Food**
+* My favorite dish is sushi - I appreciate the attention to detail, the craftsmanship, and how seemingly simple ingredients come together to create something exceptional
 
 ## Inspirations
-
-
 
 * [https://www.nytimes.com/2013/03/31/business/questbacks-lead-strategist-on-his-user-manual.html](https://www.nytimes.com/2013/03/31/business/questbacks-lead-strategist-on-his-user-manual.html)
 * [https://about.gitlab.com/handbook/leadership](https://about.gitlab.com/handbook/leadership) 
