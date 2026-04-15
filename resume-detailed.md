@@ -11,6 +11,8 @@ Berlin, Germany
 
 Accomplished engineering executive with 20+ years of software development experience and 10+ years leading high-performance teams at scale. Recognized leader in AI/ML and Data Science organizations, with proven expertise building and scaling cross-functional teams of Applied Scientists, Machine Learning Engineers, and Data Scientists. Track record of delivering measurable business impact through ML-powered personalization, recommendation systems, and data-driven decision-making at companies including Amazon, Alibaba Group, and Delivery Hero.
 
+Deeply experienced in cross-functional leadership across engineering and science functions — partnering closely with Applied Science, Machine Learning Engineering, and Data Science teams to translate research into production systems at scale. Proven ability to deliver results across organizations of all sizes, from high-growth startups to large-scale enterprises, by building cross-functional organizations with clear independent value streams, strategic domain-driven design approaches, and empowered team topologies that optimize for autonomy, ownership, and fast flow of delivery.
+
 **Core Competencies:**
 - AI/ML & Data Science Leadership
 - Cross-Functional Team Management (Applied Science, ML Engineering, Software Development)
@@ -24,35 +26,37 @@ Accomplished engineering executive with 20+ years of software development experi
 ## PROFESSIONAL EXPERIENCE
 
 ### Amazon / Amazon Music
-**Senior Software Development Manager, Amazon Music Machine Learning**
+**Senior Software Development Manager, Amazon Music Machine Learning & Managing Director, Snackable OÜ (Estonia)**
 *January 2023 - Present | Berlin, Germany*
 
-Lead cross-functional teams of Applied Scientists, Machine Learning Engineers, and Software Development Engineers within Amazon Music Personalization organization, driving customer experience optimization and algorithmic innovation.
+Lead 4 globally distributed cross-functional teams of 40+ Applied Scientists, Machine Learning Engineers, and Software Development Engineers within Amazon Music Personalization organization across Berlin, Tallinn, and the US (LA/SFO).
 
 **Key Responsibilities & Achievements:**
-- Direct leadership of cross-functional teams across multiple disciplines (Applied Science, ML Engineering, Software Development) focused on customer understanding, ranking optimization, and experience orchestration
-- Drive strategic technical initiatives in personalization algorithms, re-ranking systems, and customer behavior modeling
+- Direct leadership of 4 teams across 3 regions: Customer Intelligence (Tallinn), Content Expertise (Berlin), Candidate Intelligence (Berlin), and Personalized Playlists (US — LA/SFO)
+- Own the Domain Intelligence platform — the core "Personalization as a Service" layer powering customer understanding, content expertise, and intelligent candidate retrieval for all Amazon Music experiences
+- Drive strategic technical initiatives in personalization algorithms, ranking systems, and customer behavior modeling
 - Architect and implement scalable ML systems serving millions of Amazon Music customers globally
 - Collaborate with product, science, and engineering leadership to define roadmap and technical strategy
 - Establish engineering excellence practices and mentor senior technical talent
 
 **Technical Focus Areas:**
-- Customer Understanding & Behavioral Modeling
-- Ranking & Re-ranking Algorithms
-- Experience Optimization & Orchestration
-- ML Infrastructure & Scalability
+- Customer Understanding & Behavioral Modeling (Customer Intelligence — Tallinn)
+- Content Representations & Music Expert Models (Content Expertise — Berlin)
+- Candidate Retrieval, Ensembling & First-Pass Ranking (Candidate Intelligence — Berlin)
+- Personalized Playlist Generation (Personalized Playlists — US)
 
 ---
 
 ### Trendyol / Alibaba Group
-**Head of Engineering**
-*December 2021 - January 2023 | Istanbul, Turkey*
+**Head of Engineering & Managing Director, Germany Office**
+*December 2021 - January 2023 | Istanbul, Turkey & Berlin, Germany*
 
-Led engineering organization for local commerce (Food and Groceries Delivery) vertical, managing managers of managers and overseeing 17+ teams across multiple domains including logistics, assortment, and store operations.
+Led engineering organization for local commerce (Food and Groceries Delivery) vertical, managing managers of managers and overseeing 17+ teams across multiple domains including logistics, assortment, and store operations. Concurrently served as Managing Director of Trendyol's Germany office, overseeing local operations and market expansion.
 
 **Key Responsibilities & Achievements:**
 - Established organizational structure and team topologies for 17+ engineering teams, optimizing for autonomy and delivery velocity
 - Served on tribe leadership group, shaping company-wide technical strategy and architectural decisions
+- Led Trendyol's Germany office as Managing Director, driving market presence, operational setup, and local team management
 - Partnered with data engineering and data science teams to build data-driven decision-making capabilities
 - Ensured consistent delivery of high-quality applications across logistics, assortment, and store operations domains
 - Implemented resource allocation framework ensuring predictable delivery across multiple concurrent projects

@@ -8,33 +8,35 @@ Berlin, Germany | [hyurtseven81@gmail.com](mailto:hyurtseven81@gmail.com) | [+49
 
 ## EXECUTIVE SUMMARY
 
-Accomplished engineering executive with 20+ years of software development experience and 10+ years leading high-performance teams at scale. Recognized leader in AI/ML and Data Science organizations, with proven expertise building and scaling cross-functional teams of Applied Scientists, Machine Learning Engineers, and Data Scientists. Track record of delivering measurable business impact through ML-powered personalization, recommendation systems, and data-driven decision-making at companies including Amazon, Alibaba Group, and Delivery Hero.
+Accomplished engineering executive with 20+ years of software development experience and 10+ years leading high-performance teams at scale. Proven cross-functional leader across engineering and science functions — building and scaling organizations of Applied Scientists, Machine Learning Engineers, and Data Scientists that deliver measurable business impact. Track record of success across startups and large-scale enterprises (Amazon, Alibaba Group, Delivery Hero), building cross-functional organizations with clear independent value streams, strategic domain-driven design approaches, and empowered team topologies that optimize for autonomy, ownership, and fast flow of delivery.
 
 ---
 
 ## PROFESSIONAL EXPERIENCE
 
 ### Amazon / Amazon Music
-**Senior Software Development Manager, Amazon Music Machine Learning**
+**Senior Software Development Manager, Amazon Music Machine Learning & Managing Director, Snackable OÜ (Estonia)**
 *January 2023 - Present | Berlin, Germany*
 
-Lead cross-functional teams of Applied Scientists, Machine Learning Engineers, and Software Development Engineers within Amazon Music Personalization organization.
+Lead 4 globally distributed cross-functional teams of 40+ Applied Scientists, Machine Learning Engineers, and Software Development Engineers within Amazon Music Personalization organization across Berlin, Tallinn, and the US (LA/SFO).
 
-- Direct leadership of cross-functional teams focused on customer understanding, ranking optimization, and experience orchestration
-- Drive strategic technical initiatives in personalization algorithms, re-ranking systems, and customer behavior modeling
+- Direct leadership of 4 teams: Customer Intelligence (Tallinn), Content Expertise (Berlin), Candidate Intelligence (Berlin), and Personalized Playlists (US)
+- Own the Domain Intelligence platform — the core personalization-as-a-service layer powering customer understanding, content expertise, and intelligent candidate retrieval
+- Drive strategic technical initiatives in personalization algorithms, ranking systems, and customer behavior modeling
 - Architect scalable ML systems serving millions of Amazon Music customers globally
 - Collaborate with product, science, and engineering leadership on roadmap and technical strategy
 
 ---
 
 ### Trendyol / Alibaba Group
-**Head of Engineering**
-*December 2021 - January 2023 | Istanbul, Turkey*
+**Head of Engineering & Managing Director, Germany Office**
+*December 2021 - January 2023 | Istanbul, Turkey & Berlin, Germany*
 
-Led engineering organization for local commerce vertical, managing 17+ teams across logistics, assortment, and store operations.
+Led engineering organization for local commerce vertical, managing 17+ teams across logistics, assortment, and store operations. Concurrently served as Managing Director of Trendyol's Germany office, overseeing local operations and market expansion.
 
 - Established organizational structure and team topologies optimizing for autonomy and delivery velocity
 - Served on tribe leadership group, shaping company-wide technical strategy
+- Led Trendyol's Germany office as Managing Director, driving market presence and operational setup
 - Partnered with data engineering and data science teams to build data-driven capabilities
 - Introduced OKR framework, Executive Action Team, and RFC/ADR processes
 - Transformed organization to outcome-driven, empowered team model
@@ -101,6 +103,12 @@ Led 70+ person engineering organization across multiple media properties and pla
 **Platform Portfolio:** blutv.com.tr, netd.com, kanald.com.tr, cnnturk.com, dsmart.com.tr
 
 **Technologies:** Python, Vue.js, scikit-learn, Microservices, MongoDB, Elasticsearch, Hadoop, DRM technologies
+
+**Previous roles at Dogan TV:**
+- Software Development and Technical Innovation Manager (2014 - 2015)
+- netd.com — Software Development Manager (2012 - 2014)
+- cnnturk.com — Software Development Manager (2009 - 2012)
+- cnnturk.com — Senior Software Developer (2008 - 2009)
 
 ---
 
