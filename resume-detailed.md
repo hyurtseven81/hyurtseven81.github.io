@@ -11,7 +11,7 @@ Berlin, Germany
 
 Accomplished engineering executive with 20+ years of software development experience and 10+ years leading high-performance teams at scale. Recognized leader in AI/ML and Data Science organizations, with proven expertise building and scaling cross-functional teams of Applied Scientists, Machine Learning Engineers, and Data Scientists. Track record of delivering measurable business impact through ML-powered personalization, recommendation systems, and data-driven decision-making at companies including Amazon, Alibaba Group, and Delivery Hero.
 
-Deeply experienced in cross-functional leadership across engineering and science functions — partnering closely with Applied Science, Machine Learning Engineering, and Data Science teams to translate research into production systems at scale. Proven ability to deliver results across organizations of all sizes, from high-growth startups to large-scale enterprises, by building cross-functional organizations with clear independent value streams, strategic domain-driven design approaches, and empowered team topologies that optimize for autonomy, ownership, and fast flow of delivery.
+Deeply experienced in cross-functional leadership across engineering and science functions — building and leading data science teams since 2015 and partnering closely with Applied Science, Machine Learning Engineering, and Data Science teams to translate research into production systems at scale. Repeatedly transformed functional data science organizations into cross-functional data product setups (Delivery Hero, Trendyol). Proven ability to deliver results across organizations of all sizes, from high-growth startups to large-scale enterprises, by building cross-functional organizations with clear independent value streams, strategic domain-driven design approaches, and empowered team topologies that optimize for autonomy, ownership, and fast flow of delivery.
 
 **Core Competencies:**
 - AI/ML & Data Science Leadership
@@ -29,10 +29,10 @@ Deeply experienced in cross-functional leadership across engineering and science
 **Senior Software Development Manager, Amazon Music Machine Learning & Managing Director, Snackable OÜ (Estonia)**
 *January 2023 - Present | Berlin, Germany*
 
-Lead 4 globally distributed cross-functional teams of 40+ Applied Scientists, Machine Learning Engineers, and Software Development Engineers within Amazon Music Personalization organization across Berlin, Tallinn, and the US (LA/SFO).
+Lead 3 globally distributed cross-functional teams of 30+ Applied Scientists, Machine Learning Engineers, and Software Development Engineers within Amazon Music Personalization organization across Berlin and Tallinn.
 
 **Key Responsibilities & Achievements:**
-- Direct leadership of 4 teams across 3 regions: Customer Intelligence (Tallinn), Content Expertise (Berlin), Candidate Intelligence (Berlin), and Personalized Playlists (US — LA/SFO)
+- Direct leadership of 3 teams across 2 regions: Customer Intelligence (Tallinn), Content Expertise (Berlin), and Candidate Intelligence (Berlin)
 - Own the Domain Intelligence platform — the core "Personalization as a Service" layer powering customer understanding, content expertise, and intelligent candidate retrieval for all Amazon Music experiences
 - Drive strategic technical initiatives in personalization algorithms, ranking systems, and customer behavior modeling
 - Architect and implement scalable ML systems serving millions of Amazon Music customers globally
@@ -43,7 +43,6 @@ Lead 4 globally distributed cross-functional teams of 40+ Applied Scientists, Ma
 - Customer Understanding & Behavioral Modeling (Customer Intelligence — Tallinn)
 - Content Representations & Music Expert Models (Content Expertise — Berlin)
 - Candidate Retrieval, Ensembling & First-Pass Ranking (Candidate Intelligence — Berlin)
-- Personalized Playlist Generation (Personalized Playlists — US)
 
 ---
 
@@ -58,6 +57,7 @@ Led engineering organization for local commerce (Food and Groceries Delivery) ve
 - Served on tribe leadership group, shaping company-wide technical strategy and architectural decisions
 - Led Trendyol's Germany office as Managing Director, driving market presence, operational setup, and local team management
 - Partnered with data engineering and data science teams to build data-driven decision-making capabilities
+- Transformed the functional data science organization into a cross-functional data product setup, embedding data scientists directly into domain teams
 - Ensured consistent delivery of high-quality applications across logistics, assortment, and store operations domains
 - Implemented resource allocation framework ensuring predictable delivery across multiple concurrent projects
 
@@ -80,6 +80,7 @@ Led Q-Commerce engineering tribe, managing managers of managers, senior data sci
 
 **Key Responsibilities & Achievements:**
 - Directed engineering organization including platform teams, data science teams, and product engineering teams
+- Transitioned the functional data science organization into a cross-functional data product setup, embedding data scientists into domain teams with end-to-end product ownership
 - Served on tribe leadership committee, establishing technical vision and engineering standards
 - Architected and oversaw delivery of multiple mission-critical applications and platform services
 - Designed team topologies optimized for business domain alignment and technical dependencies
@@ -100,10 +101,10 @@ Led Q-Commerce engineering tribe, managing managers of managers, senior data sci
 **Chief Technology Officer**
 *February 2020 - July 2020 | Istanbul, Turkey*
 
-Led technology organization of Turkey's premier job board and ATS platforms (Kariyer.net and İşin Olsun), managing 80+ engineers, data scientists, DevOps engineers, and QA professionals.
+Led technology organization of Turkey's premier job board and ATS platforms (Kariyer.net and İşin Olsun), leading the organization as an R&D company and managing 80+ engineers, data scientists, DevOps engineers, and QA professionals.
 
 **Key Responsibilities & Achievements:**
-- Directed all engineering, R&D, DevOps, and QA functions across multiple product lines
+- Directed all engineering, R&D, data science, DevOps, and QA functions across multiple product lines
 - Established software architecture standards and scalability principles for high-traffic platforms
 - Implemented OKR and Agile methodologies (Scrum, Kanban) across engineering organization
 - Led recruitment, training, and performance management for technical teams
@@ -129,7 +130,7 @@ Led technology vision and execution for Turkey's leading OTT streaming platform,
 **Technical Innovations:**
 - Developed proprietary video streaming infrastructure supporting HLS, MPEG-DASH, and Smooth Streaming
 - Implemented multi-DRM solution (PlayReady, FairPlay, Widevine) for content protection
-- Built ML-powered recommendation and personalization systems
+- Built in-house data science team and ML-powered recommendation and personalization systems, driving content discovery and engagement across the platform
 - Architected microservices-based platform for scalability and reliability
 
 **Technologies:** Python, Sanic, Tornado, React, React Native, Next.js, Vue.js, Nuxt.js, JWT, scikit-learn, Microservices, MongoDB, PostgreSQL, Elasticsearch, Varnish, Nginx, HLS, MPEG-DASH, PlayReady, FairPlay, Widevine, Video.js, Shaka Player, ExoPlayer, Jenkins CI/CD, TDD, AWS
@@ -144,8 +145,12 @@ Led 70+ person engineering organization across multiple media properties and pla
 
 **Key Responsibilities & Achievements:**
 - Managed managers of managers, establishing multi-level leadership structure
+- Drove Dogan TV's transformation into an R&D company, establishing data science and applied research as core functions
+- Built and led the company's first data science team
+- Established the company's first Hadoop cluster, creating the data platform foundation for ML across all properties
+- Architected and deployed Hadoop-based ML systems for recommendation, churn prediction (powering subscriber retention for pay-TV services), and audience segmentation
+- Built ML-based image matching and similarity capabilities into Blupoint CMS
 - Directed development of headless CMS (Blupoint CMS), eCRM, DRM systems, and custom CDN solutions
-- Architected and deployed Hadoop-based ML systems for recommendation, churn prediction, and segmentation
 - Processed and analyzed clickstream and video event data from 40+ platforms
 - Implemented full DRM license servers (Widevine, FairPlay, PlayReady)
 
@@ -163,7 +168,7 @@ Managed Dogan TV Software Development Team, leading application engineers and we
 **Key Achievements:**
 - Built multi-site flexible CMS system adopted across all Dogan TV properties
 - Implemented technology stack: MongoDB, Elasticsearch, Redis, ASP.NET MVC, Web API, OData, BackboneJS, AngularJS
-- Developed Python-based recommendation systems and ML algorithms
+- Built Dogan TV's first recommendation system, developing Python-based ML algorithms adopted across the company's properties
 - Created HLS-capable Flash and HTML5 video players with VAST 3 advertising support
 
 ---
@@ -232,7 +237,7 @@ Distributed Systems, Microservices Architecture, RESTful APIs, Event-Driven Arch
 Python (FastAPI, Sanic, Tornado, Django, scikit-learn, TensorFlow, PyTorch), Golang, Java (Spring Boot), JavaScript/TypeScript, Node.js, React, Next.js, Vue.js, Nuxt.js, C#, .NET, ASP.NET MVC
 
 **Data & ML:**
-Machine Learning, Recommendation Systems, Personalization, Data Mining, Deep Learning, MLOps
+Machine Learning, Recommendation Systems, Personalization, Ranking, Churn Prediction, Customer Segmentation, Image Matching & Similarity, Data Mining, Deep Learning, MLOps
 
 **Databases & Storage:**
 MongoDB, PostgreSQL, MySQL, SQL Server, Elasticsearch, Redis, HBase, CouchDB
