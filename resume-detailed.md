@@ -9,7 +9,7 @@ Berlin, Germany
 
 ## EXECUTIVE SUMMARY
 
-Accomplished engineering executive with 20+ years of software development experience and 10+ years leading high-performance teams at scale. Recognized leader in AI/ML and Data Science organizations, with proven expertise building and scaling cross-functional teams of Applied Scientists, Machine Learning Engineers, and Data Scientists. Track record of delivering measurable business impact through ML-powered personalization, recommendation systems, and data-driven decision-making at companies including Amazon, Alibaba Group, and Delivery Hero.
+Accomplished engineering and science executive with 20+ years of software development experience and 10+ years leading high-performance engineering and science teams at scale. Recognized leader in AI/ML and Data Science organizations, with proven expertise building and scaling cross-functional teams of Applied Scientists, Machine Learning Engineers, and Data Scientists. Track record of delivering measurable business impact through ML-powered personalization, recommendation systems, and data-driven decision-making at companies including Amazon, Alibaba Group, and Delivery Hero.
 
 Deeply experienced in cross-functional leadership across engineering and science functions — building and leading data science teams since 2015 and partnering closely with Applied Science, Machine Learning Engineering, and Data Science teams to translate research into production systems at scale. Repeatedly transformed functional data science organizations into cross-functional data product setups (Delivery Hero, Trendyol). Proven ability to deliver results across organizations of all sizes, from high-growth startups to large-scale enterprises, by building cross-functional organizations with clear independent value streams, strategic domain-driven design approaches, and empowered team topologies that optimize for autonomy, ownership, and fast flow of delivery.
 
@@ -84,7 +84,7 @@ Led Q-Commerce engineering tribe, managing managers of managers, senior data sci
 - Served on tribe leadership committee, establishing technical vision and engineering standards
 - Architected and oversaw delivery of multiple mission-critical applications and platform services
 - Designed team topologies optimized for business domain alignment and technical dependencies
-- Managed technical interviews and performance management for senior technical talent
+- Managed technical interviews and performance management for senior engineering and data science talent
 
 **Technical & Business Impact:**
 - Launched comprehensive Product Information Management (PIM) system, improving catalog quality and operational efficiency
@@ -141,7 +141,7 @@ Led technology vision and execution for Turkey's leading OTT streaming platform,
 **Director of Software Development and Technical Innovation**
 *September 2015 - April 2018 | Istanbul, Turkey*
 
-Led 70+ person engineering organization across multiple media properties and platforms, driving technical innovation and architectural excellence.
+Led 70+ person engineering and data science organization across multiple media properties and platforms, driving technical innovation, applied research, and architectural excellence.
 
 **Key Responsibilities & Achievements:**
 - Managed managers of managers, establishing multi-level leadership structure

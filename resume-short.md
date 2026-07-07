@@ -8,7 +8,7 @@ Berlin, Germany | [hyurtseven81@gmail.com](mailto:hyurtseven81@gmail.com) | [+49
 
 ## EXECUTIVE SUMMARY
 
-Accomplished engineering executive with 20+ years of software development experience and 10+ years leading high-performance teams at scale. Proven cross-functional leader across engineering and science functions — building and scaling organizations of Applied Scientists, Machine Learning Engineers, and Data Scientists that deliver measurable business impact. Building and leading data science teams since 2015, with repeated success transforming functional data science organizations into cross-functional data product setups (Delivery Hero, Trendyol). Track record of success across startups and large-scale enterprises (Amazon, Alibaba Group, Delivery Hero), building cross-functional organizations with clear independent value streams, strategic domain-driven design approaches, and empowered team topologies that optimize for autonomy, ownership, and fast flow of delivery.
+Accomplished engineering and science executive with 20+ years of software development experience and 10+ years leading high-performance engineering and science teams at scale. Proven cross-functional leader across engineering and science functions — building and scaling organizations of Applied Scientists, Machine Learning Engineers, and Data Scientists that deliver measurable business impact. Building and leading data science teams since 2015, with repeated success transforming functional data science organizations into cross-functional data product setups (Delivery Hero, Trendyol). Track record of success across startups and large-scale enterprises (Amazon, Alibaba Group, Delivery Hero), building cross-functional organizations with clear independent value streams, strategic domain-driven design approaches, and empowered team topologies that optimize for autonomy, ownership, and fast flow of delivery.
 
 ---
 
@@ -97,7 +97,7 @@ Led technology vision for Turkey's leading OTT streaming platform, managing 40+ 
 **Director of Software Development and Technical Innovation**
 *September 2015 - April 2018 | Istanbul, Turkey*
 
-Led 70+ person engineering organization across multiple media properties and platforms.
+Led 70+ person engineering and data science organization across multiple media properties and platforms.
 
 - Drove Dogan TV's transformation into an R&D company — built and led the company's first data science team
 - Established the company's first Hadoop cluster and built its first recommendation systems
