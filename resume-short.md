@@ -1,6 +1,6 @@
 # HÜSEYİN YURTSEVEN
 
-**Senior Engineering Leader | Machine Learning & Personalization**
+**Senior Engineering & Science Leader | Machine Learning & Personalization**
 
 Berlin, Germany | [hyurtseven81@gmail.com](mailto:hyurtseven81@gmail.com) | [+49 174 757 8231](tel:+491747578231)
 
@@ -25,6 +25,7 @@ Lead 3 globally distributed cross-functional teams of 30+ Applied Scientists, Ma
 - Drive strategic technical initiatives in personalization algorithms, ranking systems, and customer behavior modeling
 - Architect scalable ML systems serving millions of Amazon Music customers globally
 - Collaborate with product, science, and engineering leadership on roadmap and technical strategy
+- Establish engineering and science excellence practices, mentoring senior engineers and applied scientists
 
 ---
 
