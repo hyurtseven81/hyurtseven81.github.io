@@ -8,7 +8,7 @@ Berlin, Germany | [hyurtseven81@gmail.com](mailto:hyurtseven81@gmail.com) | [+49
 
 ## EXECUTIVE SUMMARY
 
-Accomplished engineering and science executive with 20+ years of software development experience and 10+ years leading high-performance engineering and science teams at scale. Proven cross-functional leader across engineering and science functions — building and scaling organizations of Applied Scientists, Machine Learning Engineers, and Data Scientists that deliver measurable business impact. Building and leading data science teams since 2015, with repeated success transforming functional data science organizations into cross-functional data product setups (Delivery Hero, Trendyol). Track record of success across startups and large-scale enterprises (Amazon, Alibaba Group, Delivery Hero), building cross-functional organizations with clear independent value streams, strategic domain-driven design approaches, and empowered team topologies that optimize for autonomy, ownership, and fast flow of delivery.
+Accomplished engineering and science executive with 20+ years of software development experience and 10+ years leading high-performance engineering and science teams at scale, including organizations of 160+ people and two R&D centres in Turkey. Proven cross-functional leader across engineering and science functions — building and scaling organizations of Applied Scientists, Machine Learning Engineers, and Data Scientists that deliver measurable business impact. Building and leading data science teams since 2015, with repeated success transforming functional data science organizations into cross-functional data product setups (Delivery Hero, Trendyol). Track record of success across startups and large-scale enterprises (Amazon, Alibaba Group, Delivery Hero), building cross-functional organizations with clear independent value streams, strategic domain-driven design approaches, and empowered team topologies that optimize for autonomy, ownership, and fast flow of delivery.
 
 ---
 
@@ -33,7 +33,7 @@ Lead 3 globally distributed cross-functional teams of 30+ Applied Scientists, Ma
 **Head of Engineering & Managing Director, Germany Office**
 *December 2021 - January 2023 | Istanbul, Turkey & Berlin, Germany*
 
-Led engineering organization for local commerce vertical, managing 17+ teams across logistics, assortment, and store operations. Concurrently served as Managing Director of Trendyol's Germany office, overseeing local operations and market expansion.
+Led engineering organization for the local commerce vertical (Trendyol Go, later acquired by Uber), managing 17+ teams across logistics, assortment, and store operations. Concurrently served as Managing Director of Trendyol's Germany office, overseeing local operations and market expansion.
 
 - Established organizational structure and team topologies optimizing for autonomy and delivery velocity
 - Served on tribe leadership group, shaping company-wide technical strategy
@@ -68,7 +68,7 @@ Led Q-Commerce engineering tribe, managing managers of managers, senior data sci
 **Chief Technology Officer**
 *February 2020 - July 2020 | Istanbul, Turkey*
 
-Led technology organization of Turkey's premier job board and ATS platforms, leading the organization as an R&D company and managing 80+ engineers, data scientists, DevOps engineers, and QA professionals.
+Led technology organization of Turkey's premier job board and ATS platforms, leading the organization as an R&D centre and managing 80+ engineers, data scientists, DevOps engineers, and QA professionals.
 
 - Directed all engineering, R&D, DevOps, and QA functions across multiple product lines
 - Established software architecture standards and scalability principles for high-traffic platforms
@@ -82,7 +82,7 @@ Led technology organization of Turkey's premier job board and ATS platforms, lea
 **Chief Technology Officer**
 *April 2018 - February 2020 | Istanbul, Turkey*
 
-Led technology vision for Turkey's leading OTT streaming platform, managing 40+ engineers, data scientists, and DevOps professionals.
+Led technology vision for Turkey's leading OTT streaming platform (later acquired by Discovery), managing 40+ engineers, data scientists, and DevOps professionals.
 
 - Directed end-to-end technology development for OTT platform serving millions of users
 - Built in-house capabilities across video delivery, DRM, recommendation systems, and content management
@@ -97,9 +97,9 @@ Led technology vision for Turkey's leading OTT streaming platform, managing 40+ 
 **Director of Software Development and Technical Innovation**
 *September 2015 - April 2018 | Istanbul, Turkey*
 
-Led 70+ person engineering and data science organization across multiple media properties and platforms.
+Led the group's R&D centre — a 70+ person engineering and data science organization across multiple media properties and platforms.
 
-- Drove Dogan TV's transformation into an R&D company — built and led the company's first data science team
+- Drove Dogan TV's transformation into an R&D centre — built and led the company's first data science team
 - Established the company's first Hadoop cluster and built its first recommendation systems
 - Architected Hadoop-based ML systems for recommendation, churn prediction (powering pay-TV subscriber retention), and audience segmentation
 - Directed development of headless CMS (Blupoint CMS) — including ML-based image matching — plus eCRM, DRM systems, and custom CDN solutions
@@ -119,8 +119,11 @@ Led 70+ person engineering and data science organization across multiple media p
 
 ## PUBLICATIONS
 
+**Generalized Position-Based Model: Rethinking Position Weights in Ranking Off-Policy Evaluation**
+Vito Bellini, Norman Knyazev, Huseyin Yurtseven, Ben London | ACM RecSys 2026
+
 **A Unified Recommendation Model for Features Summarization**
-Amazon Science | [https://www.amazon.science/publications/a-unified-recommendation-model-for-features-summarization](https://www.amazon.science/publications/a-unified-recommendation-model-for-features-summarization)
+Vito Bellini, Zhan Shi, Huseyin Yurtseven, Fabian Moerchen, Emanuele Coviello | RecSys 2025 Workshop on Music Recommender Systems | Amazon Science | [https://www.amazon.science/publications/a-unified-recommendation-model-for-features-summarization](https://www.amazon.science/publications/a-unified-recommendation-model-for-features-summarization)
 
 ---
 

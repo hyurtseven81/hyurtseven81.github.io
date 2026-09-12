@@ -9,7 +9,7 @@ Berlin, Germany
 
 ## EXECUTIVE SUMMARY
 
-Accomplished engineering and science executive with 20+ years of software development experience and 10+ years leading high-performance engineering and science teams at scale. Recognized leader in AI/ML and Data Science organizations, with proven expertise building and scaling cross-functional teams of Applied Scientists, Machine Learning Engineers, and Data Scientists. Track record of delivering measurable business impact through ML-powered personalization, recommendation systems, and data-driven decision-making at companies including Amazon, Alibaba Group, and Delivery Hero.
+Accomplished engineering and science executive with 20+ years of software development experience and 10+ years leading high-performance engineering and science teams at scale, including organizations of 160+ people and two R&D centres in Turkey. Recognized leader in AI/ML and Data Science organizations, with proven expertise building and scaling cross-functional teams of Applied Scientists, Machine Learning Engineers, and Data Scientists. Track record of delivering measurable business impact through ML-powered personalization, recommendation systems, and data-driven decision-making at companies including Amazon, Alibaba Group, and Delivery Hero.
 
 Deeply experienced in cross-functional leadership across engineering and science functions — building and leading data science teams since 2015 and partnering closely with Applied Science, Machine Learning Engineering, and Data Science teams to translate research into production systems at scale. Repeatedly transformed functional data science organizations into cross-functional data product setups (Delivery Hero, Trendyol). Proven ability to deliver results across organizations of all sizes, from high-growth startups to large-scale enterprises, by building cross-functional organizations with clear independent value streams, strategic domain-driven design approaches, and empowered team topologies that optimize for autonomy, ownership, and fast flow of delivery.
 
@@ -50,7 +50,7 @@ Lead 3 globally distributed cross-functional teams of 30+ Applied Scientists, Ma
 **Head of Engineering & Managing Director, Germany Office**
 *December 2021 - January 2023 | Istanbul, Turkey & Berlin, Germany*
 
-Led engineering organization for local commerce (Food and Groceries Delivery) vertical, managing managers of managers and overseeing 17+ teams across multiple domains including logistics, assortment, and store operations. Concurrently served as Managing Director of Trendyol's Germany office, overseeing local operations and market expansion.
+Led engineering organization for the local commerce (Food and Groceries Delivery) vertical — Trendyol Go, later acquired by Uber — managing managers of managers and overseeing 17+ teams across multiple domains including logistics, assortment, and store operations. Concurrently served as Managing Director of Trendyol's Germany office, overseeing local operations and market expansion.
 
 **Key Responsibilities & Achievements:**
 - Established organizational structure and team topologies for 17+ engineering teams, optimizing for autonomy and delivery velocity
@@ -101,7 +101,7 @@ Led Q-Commerce engineering tribe, managing managers of managers, senior data sci
 **Chief Technology Officer**
 *February 2020 - July 2020 | Istanbul, Turkey*
 
-Led technology organization of Turkey's premier job board and ATS platforms (Kariyer.net and İşin Olsun), leading the organization as an R&D company and managing 80+ engineers, data scientists, DevOps engineers, and QA professionals.
+Led technology organization of Turkey's premier job board and ATS platforms (Kariyer.net and İşin Olsun), leading the organization as an R&D centre and managing 80+ engineers, data scientists, DevOps engineers, and QA professionals.
 
 **Key Responsibilities & Achievements:**
 - Directed all engineering, R&D, data science, DevOps, and QA functions across multiple product lines
@@ -118,7 +118,7 @@ Led technology organization of Turkey's premier job board and ATS platforms (Kar
 **Chief Technology Officer**
 *April 2018 - February 2020 | Istanbul, Turkey*
 
-Led technology vision and execution for Turkey's leading OTT streaming platform, managing 40+ engineers, data scientists, product owners, DevOps engineers, and QA professionals.
+Led technology vision and execution for Turkey's leading OTT streaming platform (later acquired by Discovery), managing 40+ engineers, data scientists, product owners, DevOps engineers, and QA professionals.
 
 **Key Responsibilities & Achievements:**
 - Directed end-to-end technology development for comprehensive OTT platform serving millions of users
@@ -141,11 +141,11 @@ Led technology vision and execution for Turkey's leading OTT streaming platform,
 **Director of Software Development and Technical Innovation**
 *September 2015 - April 2018 | Istanbul, Turkey*
 
-Led 70+ person engineering and data science organization across multiple media properties and platforms, driving technical innovation, applied research, and architectural excellence.
+Led the group's R&D centre — a 70+ person engineering and data science organization across multiple media properties and platforms, driving technical innovation, applied research, and architectural excellence.
 
 **Key Responsibilities & Achievements:**
 - Managed managers of managers, establishing multi-level leadership structure
-- Drove Dogan TV's transformation into an R&D company, establishing data science and applied research as core functions
+- Drove Dogan TV's transformation into an R&D centre, establishing data science and applied research as core functions
 - Built and led the company's first data science team
 - Established the company's first Hadoop cluster, creating the data platform foundation for ML across all properties
 - Architected and deployed Hadoop-based ML systems for recommendation, churn prediction (powering subscriber retention for pay-TV services), and audience segmentation
@@ -219,8 +219,11 @@ Developed web applications and solutions during academic studies.
 
 ## PUBLICATIONS
 
+**Generalized Position-Based Model: Rethinking Position Weights in Ranking Off-Policy Evaluation**
+Vito Bellini, Norman Knyazev, Huseyin Yurtseven, Ben London | ACM RecSys 2026
+
 **A Unified Recommendation Model for Features Summarization**
-Amazon Science
+Vito Bellini, Zhan Shi, Huseyin Yurtseven, Fabian Moerchen, Emanuele Coviello | RecSys 2025 Workshop on Music Recommender Systems | Amazon Science
 [https://www.amazon.science/publications/a-unified-recommendation-model-for-features-summarization](https://www.amazon.science/publications/a-unified-recommendation-model-for-features-summarization)
 
 ---
